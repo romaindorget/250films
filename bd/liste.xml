@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste>
+	<film>
+		<id>1</id>
+		<name>Les évadés</name>
+		<year>1994</year>
+		<director>Frank Darabont</director>
+		<image>images/affiche1.jpg</image>
+	</film>
+	<film>
+		<id>2</id>
+		<name>Le parrain</name>
+		<year>1972</year>
+		<director>Francis Ford Coppola</director>
+		<image>images/affiche2.jpg</image>
+	</film>
+	<film>
+		<id>3</id>
+		<name>Le parrain, 2ème partie</name>
+		<year>1974</year>
+		<director>Francis Ford Coppola</director>
+		<image>images/affiche3.jpg</image>
+	</film>
+	<film>
+		<id>4</id>
+		<name>The Dark Knight</name>
+		<year>2008</year>
+		<director>Christopher Nolan</director>
+		<image>images/affiche4.jpg</image>
+	</film>
+	<film>
+		<id>5</id>
+		<name>Pulp Fiction</name>
+		<year>1994</year>
+		<director>Quentin Tarantino</director>
+		<image>images/affiche5.jpg</image>
+	</film>
+	<film>
+		<id>6</id>
+		<name>Le bon, la brute et le truand</name>
+		<year>1966</year>
+		<director>Sergio Leone</director>
+		<image>images/affiche6.jpg</image>
+	</film>
+	<film>
+		<id>7</id>
+		<name>La liste de Schindler</name>
+		<year>1993</year>
+		<director>Steven Spielberg</director>
+		<image>images/affiche7.jpg</image>
+	</film>
+	<film>
+		<id>8</id>
+		<name>12 hommes en colère</name>
+		<year>1957</year>
+		<director>Sidney Lumet</director>
+		<image>images/affiche8.jpg</image>
+	</film>
+	<film>
+		<id>9</id>
+		<name>Le seigneur des anneaux: Le retour du roi</name>
+		<year>2003</year>
+		<director>Peter Jackson</director>
+		<image>images/affiche9.jpg</image>
+	</film>
+	<film>
+		<id>10</id>
+		<name>Fight Club</name>
+		<year>1999</year>
+		<director>David Fincher</director>
+		<image>images/affiche10.jpg</image>
+	</film>
+	<film>
+		<id>11</id>
+		<name>Le seigneur des anneaux: La communauté de l'anneau</name>
+		<year>2001</year>
+		<director>Peter Jackson</director>
+		<image>images/affiche11.jpg</image>
+	</film>
+	<film>
+		<id>12</id>
+		<name>L'empire contre-attaque</name>
+		<year>1980</year>
+		<director>Irvin Kershner</director>
+		<image>images/affiche12.jpg</image>
+	</film>
+	<film>
+		<id>13</id>
+		<name>Inception</name>
+		<year>2010</year>
+		<director>Christopher Nolan</director>
+		<image>images/affiche13.jpg</image>
+	</film>
+	<film>
+		<id>14</id>
+		<name>Forrest Gump</name>
+		<year>1994</year>
+		<director>Robert Zemeckis</director>
+		<image>images/affiche14.jpg</image>
+	</film>
+	<film>
+		<id>15</id>
+		<name>Vol au-dessus d'un nid de coucou</name>
+		<year>1975</year>
+		<director>Milos Forman</director>
+		<image>images/affiche15.jpg</image>
+	</film>
+	<film>
+		<id>16</id>
+		<name>Les affranchis</name>
+		<year>1990</year>
+		<director>Martin Scorsese</director>
+		<image>images/affiche16.jpg</image>
+	</film>
+	<film>
+		<id>17</id>
+		<name>Le seigneur des anneaux: Les deux tours</name>
+		<year>2002</year>
+		<director>Peter Jackson</director>
+		<image>images/affiche17.jpg</image>
+	</film>
+	<film>
+		<id>18</id>
+		<name>La guerre des étoiles</name>
+		<year>1977</year>
+		<director>George Lucas</director>
+		<image>images/affiche18.jpg</image>
+	</film>
+	<film>
+		<id>19</id>
+		<name>Matrix</name>
+		<year>1999</year>
+		<director>The Wachowski Brothers</director>
+		<image>images/affiche19.jpg</image>
+	</film>
+	<film>
+		<id>20</id>
+		<name>Les sept samouraïs</name>
+		<year>1954</year>
+		<director>Akira Kurosawa</director>
+		<image>images/affiche20.jpg</image>
+	</film>
+	<film>
+		<id>21</id>
+		<name>La cité de Dieu</name>
+		<year>2002</year>
+		<director>Fernando Meirelles, Kátia Lund</director>
+		<image>images/affiche21.jpg</image>
+	</film>
+	<film>
+		<id>22</id>
+		<name>Seven</name>
+		<year>1995</year>
+		<director>David Fincher</director>
+		<image>images/affiche22.jpg</image>
+	</film>
+	<film>
+		<id>23</id>
+		<name>Usual Suspects</name>
+		<year>1995</year>
+		<director>Bryan Singer</director>
+		<image>images/affiche23.jpg</image>
+	</film>
+	<film>
+		<id>24</id>
+		<name>Le silence des agneaux</name>
+		<year>1991</year>
+		<director>Jonathan Demme</director>
+		<image>images/affiche24.jpg</image>
+	</film>
+	<film>
+		<id>25</id>
+		<name>Il était une fois dans l'ouest</name>
+		<year>1968</year>
+		<director>Sergio Leone</director>
+		<image>images/affiche25.jpg</image>
+	</film>
+	<film>
+		<id>26</id>
+		<name>La vie est belle</name>
+		<year>1946</year>
+		<director>Frank Capra</director>
+		<image>images/affiche26.jpg</image>
+	</film>
+	<film>
+		<id>27</id>
+		<name>Léon</name>
+		<year>1994</year>
+		<director>Luc Besson</director>
+		<image>images/affiche27.jpg</image>
+	</film>
+	<film>
+		<id>28</id>
+		<name>Casablanca</name>
+		<year>1942</year>
+		<director>Michael Curtiz</director>
+		<image>images/affiche28.jpg</image>
+	</film>
+	<film>
+		<id>29</id>
+		<name>La vie est belle</name>
+		<year>1997</year>
+		<director>Roberto Benigni</director>
+		<image>images/affiche29.jpg</image>
+	</film>
+	<film>
+		<id>30</id>
+		<name>Les aventuriers de l'arche perdue</name>
+		<year>1981</year>
+		<director>Steven Spielberg</director>
+		<image>images/affiche30.jpg</image>
+	</film>
+	<film>
+		<id>31</id>
+		<name>Fenêtre sur cour</name>
+		<year>1954</year>
+		<director>Alfred Hitchcock</director>
+		<image>images/affiche31.jpg</image>
+	</film>
+	<film>
+		<id>32</id>
+		<name>Psychose</name>
+		<year>1960</year>
+		<director>Alfred Hitchcock</director>
+		<image>images/affiche32.jpg</image>
+	</film>
+	<film>
+		<id>33</id>
+		<name>American History X</name>
+		<year>1998</year>
+		<director>Tony Kaye</director>
+		<image>images/affiche33.jpg</image>
+	</film>
+	<film>
+		<id>34</id>
+		<name>Les lumières de la ville</name>
+		<year>1931</year>
+		<director>Charles Chaplin</director>
+		<image>images/affiche34.jpg</image>
+	</film>
+	<film>
+		<id>35</id>
+		<name>Il faut sauver le soldat Ryan</name>
+		<year>1998</year>
+		<director>Steven Spielberg</director>
+		<image>images/affiche35.jpg</image>
+	</film>
+	<film>
+		<id>36</id>
+		<name>Le voyage de Chihiro</name>
+		<year>2001</year>
+		<director>Hayao Miyazaki</director>
+		<image>images/affiche36.jpg</image>
+	</film>
+	<film>
+		<id>37</id>
+		<name>Intouchables</name>
+		<year>2011</year>
+		<director>Olivier Nakache, Eric Toledano</director>
+		<image>images/affiche37.jpg</image>
+	</film>
+	<film>
+		<id>38</id>
+		<name>Memento</name>
+		<year>2000</year>
+		<director>Christopher Nolan</director>
+		<image>images/affiche38.jpg</image>
+	</film>
+	<film>
+		<id>39</id>
+		<name>Terminator 2 - Le jugement dernier</name>
+		<year>1991</year>
+		<director>James Cameron</director>
+		<image>images/affiche39.jpg</image>
+	</film>
+	<film>
+		<id>40</id>
+		<name>Les temps modernes</name>
+		<year>1936</year>
+		<director>Charles Chaplin</director>
+		<image>images/affiche40.jpg</image>
+	</film>
+	<film>
+		<id>41</id>
+		<name>Boulevard du Crépuscule</name>
+		<year>1950</year>
+		<director>Billy Wilder</director>
+		<image>images/affiche41.jpg</image>
+	</film>
+	<film>
+		<id>42</id>
+		<name>Docteur Folamour</name>
+		<year>1964</year>
+		<director>Stanley Kubrick</director>
+		<image>images/affiche42.jpg</image>
+	</film>
+	<film>
+		<id>43</id>
+		<name>Apocalypse Now</name>
+		<year>1979</year>
+		<director>Francis Ford Coppola</director>
+		<image>images/affiche43.jpg</image>
+	</film>
+	<film>
+		<id>44</id>
+		<name>Le pianiste</name>
+		<year>2002</year>
+		<director>Roman Polanski</director>
+		<image>images/affiche44.jpg</image>
+	</film>
+	<film>
+		<id>45</id>
+		<name>La ligne verte</name>
+		<year>1999</year>
+		<director>Frank Darabont</director>
+		<image>images/affiche45.jpg</image>
+	</film>
+	<film>
+		<id>46</id>
+		<name>Les infiltrés</name>
+		<year>2006</year>
+		<director>Martin Scorsese</director>
+		<image>images/affiche46.jpg</image>
+	</film>
+	<film>
+		<id>47</id>
+		<name>Gladiator</name>
+		<year>2000</year>
+		<director>Ridley Scott</director>
+		<image>images/affiche47.jpg</image>
+	</film>
+	<film>
+		<id>48</id>
+		<name>Retour vers le futur</name>
+		<year>1985</year>
+		<director>Robert Zemeckis</director>
+		<image>images/affiche48.jpg</image>
+	</film>
+	<film>
+		<id>49</id>
+		<name>The Dark Knight Rises</name>
+		<year>2012</year>
+		<director>Christopher Nolan</director>
+		<image>images/affiche49.jpg</image>
+	</film>
+	<film>
+		<id>50</id>
+		<name>Alien - Le 8ème passager</name>
+		<year>1979</year>
+		<director>Ridley Scott</director>
+		<image>images/affiche50.jpg</image>
+	</film>
+	<film>
+		<id></id>
+		<name></name>
+		<year></year>
+		<director></director>
+		<image></image>
+	</film>
+</liste>
